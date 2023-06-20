@@ -99,3 +99,33 @@
 
 # ***Other Skins***
 <br>
+
+# [Super Sonico (Edit)](https://mega.nz/file/FcJRDASI#mQqRQr8OBsUmnhIO6hIiIruPJqFyEWBjpUrljS0mfWs)   
+<img src="sonicoedit.jpg">
+<br>
+
+# [Honeymap Remake](https://mega.nz/file/AQBwwRqK#LQrq08cFoh3VMG6pL387b2tgji1HseUz8hFYTYzqzJ4)   
+<img src="honeymapremake.jpg">
+<br>
+
+# [osugame default](https://mega.nz/file/QdRhTYQK#KMZr1iUGrGebaCWQfev-eZARg1IR_jSbVjX9xrACu5w)   
+<img src="osugamedefault.jpg">
+<br>
+
+# [how the default skin is supposed to be](https://mega.nz/file/VdIBTaKY#dHogxDHyFkOG69c8MjMq_CDAufY2b5Y82T9uHMY-Q8E)   
+<img src="howdefaultciupa.jpg">
+<br>
+
+# [ThePoon Pink](https://mega.nz/file/gYoxwKDD#8iHy0QLMtFLa4AvUNZjJJpzWkHI_d3Vz1uJL6e-is1U)   
+<img src="thepoonpink.jpg">
+<br>
+
+# [Rafis Pink](https://mega.nz/file/MZYw1RRR#n27dXt361L_sAoGhTJ562GheYVEu9bT4l4u4yQQmTxo)   
+<img src="rafispink.jpg">
+<br>
+
+# [Ikanyai chico edit](https://mega.nz/file/0U5ywJRR#VkJ-shrVN49qZ81dtx72Tv5dH87zm7SAmRfv1AX-tEE)   
+<img src="ikanyaichico.jpg">
+<br>
+
+download them :)
