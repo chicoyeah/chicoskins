@@ -97,11 +97,11 @@
 <img src="dmlf.jpg">
 <br>
 
-# [Demonleoniful SKIN 2](https://mega.nz/file/1RQzWAyI#MwjzNYG4IMdczIRm21SJVWume3sX4EuoRD3UZM5lFbU)   
+# [Demonleoniful SKIN 2](https://mega.nz/file/VcpRCC4J#-cAzlUWOVH77Kfw3pCZ-rfdfQaRHZxMUbcw2VOu6iL0)   
 <img src="demonleoniful1.jpg">
 <br>
 
-# [Demonleoniful SKIN](https://mega.nz/file/ARYCATgC#WpORn5hMu83ewtUjkeakOAJQPJX5QteQ4OuLXykJgZU) 
+# [Demonleoniful SKIN](https://mega.nz/file/kUpUCRKZ#WpORn5hMu83ewtUjkeakOAJQPJX5QteQ4OuLXykJgZU) 
 <img src="demonleoniful2.jpg">
 <br>
 
