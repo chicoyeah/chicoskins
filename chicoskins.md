@@ -108,7 +108,7 @@
 # ***Other Skins***
 <br>
 
-# [Super Sonico (Edit)](https://mega.nz/file/FcJRDASI#mQqRQr8OBsUmnhIO6hIiIruPJqFyEWBjpUrljS0mfWs)   
+# [Super Sonico (Edit)](https://mega.nz/file/VBgCVBaZ#hIImSc4dMNrCmxq3jtaCkrdqN8gfhKGp5RukhsotpgM)   
 <img src="sonicoedit.jpg">
 <br>
 
