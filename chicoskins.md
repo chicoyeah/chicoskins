@@ -109,7 +109,7 @@
 <br>
 
 # [Super Sonico (Edit)](https://mega.nz/file/VBgCVBaZ#hIImSc4dMNrCmxq3jtaCkrdqN8gfhKGp5RukhsotpgM)   
-<img src="sonicoedit.jpg">
+<img src="supersonicoedit.jpg">
 <br>
 
 # [Honeymap Remake](https://mega.nz/file/AQBwwRqK#LQrq08cFoh3VMG6pL387b2tgji1HseUz8hFYTYzqzJ4)   
