@@ -1,6 +1,15 @@
 # ***Chico Skins***
 <br>
 
+# [YEP Rafis](https://mega.nz/file/YMInWLhQ#smK2WdzEmA6MRtaZRsQ8vvrraoRR-HOZDdgxf-0haSA)
+(it's rafis but new instafade hitcircles and bigger cursor)    
+<img src="yeprafis.jpg">
+<br>
+
+# [Ikanyai chico edit](https://mega.nz/file/0U5ywJRR#VkJ-shrVN49qZ81dtx72Tv5dH87zm7SAmRfv1AX-tEE)   
+<img src="ikanyaichico.jpg">
+<br>
+
 # [ChicoSkin 1.9](https://mega.nz/file/QRg0lJ7a#I2_bg840LUzKokq8RDW_HzyWjNqU1tUfvzno7A_hT78)   
 <img src="chicoskin19.jpg">
 <br>
@@ -31,6 +40,26 @@
 
 # [ChicoSkin](https://mega.nz/file/BF4jQJAA#z3Z8IlUhHFmXpnblku64vViYt_mR1q7R6ZmUZJwbn1s)   
 <img src="chicoskin.jpg">
+<br>
+
+# [Rafis Pink](https://mega.nz/file/MZYw1RRR#n27dXt361L_sAoGhTJ562GheYVEu9bT4l4u4yQQmTxo)   
+<img src="rafispink.jpg">
+<br>
+
+# [ThePoon Pink](https://mega.nz/file/gYoxwKDD#8iHy0QLMtFLa4AvUNZjJJpzWkHI_d3Vz1uJL6e-is1U)   
+<img src="thepoonpink.jpg">
+<br>
+
+# [osugame default](https://mega.nz/file/QdRhTYQK#KMZr1iUGrGebaCWQfev-eZARg1IR_jSbVjX9xrACu5w)   
+<img src="osugamedefault.jpg">
+<br>
+
+# [Honeymap Remake](https://mega.nz/file/AQBwwRqK#LQrq08cFoh3VMG6pL387b2tgji1HseUz8hFYTYzqzJ4)   
+<img src="honeymapremake.jpg">
+<br>
+
+# [Super Sonico (Edit)](https://mega.nz/file/VBgCVBaZ#hIImSc4dMNrCmxq3jtaCkrdqN8gfhKGp5RukhsotpgM)   
+<img src="supersonicoedit.jpg">
 <br>
 
 # [OSS! [by DMLF]](https://mega.nz/file/oBBwRTiZ#k7M6wIbqpPMIALLcsgbbDusR9R_aqEiVr617nttqg0o)   
@@ -103,42 +132,6 @@
 
 # [Demonleoniful SKIN](https://mega.nz/file/kUpUCRKZ#WpORn5hMu83ewtUjkeakOAJQPJX5QteQ4OuLXykJgZU) 
 <img src="demonleoniful2.jpg">
-<br>
-
-# ***Other Skins***
-<br>
-
-# [Super Sonico (Edit)](https://mega.nz/file/VBgCVBaZ#hIImSc4dMNrCmxq3jtaCkrdqN8gfhKGp5RukhsotpgM)   
-<img src="supersonicoedit.jpg">
-<br>
-
-# [Honeymap Remake](https://mega.nz/file/AQBwwRqK#LQrq08cFoh3VMG6pL387b2tgji1HseUz8hFYTYzqzJ4)   
-<img src="honeymapremake.jpg">
-<br>
-
-# [osugame default](https://mega.nz/file/QdRhTYQK#KMZr1iUGrGebaCWQfev-eZARg1IR_jSbVjX9xrACu5w)   
-<img src="osugamedefault.jpg">
-<br>
-
-# [how the default skin is supposed to be](https://mega.nz/file/VdIBTaKY#dHogxDHyFkOG69c8MjMq_CDAufY2b5Y82T9uHMY-Q8E)   
-<img src="howdefaultciupa.jpg">
-<br>
-
-# [ThePoon Pink](https://mega.nz/file/gYoxwKDD#8iHy0QLMtFLa4AvUNZjJJpzWkHI_d3Vz1uJL6e-is1U)   
-<img src="thepoonpink.jpg">
-<br>
-
-# [Rafis Pink](https://mega.nz/file/MZYw1RRR#n27dXt361L_sAoGhTJ562GheYVEu9bT4l4u4yQQmTxo)   
-<img src="rafispink.jpg">
-<br>
-
-# [Ikanyai chico edit](https://mega.nz/file/0U5ywJRR#VkJ-shrVN49qZ81dtx72Tv5dH87zm7SAmRfv1AX-tEE)   
-<img src="ikanyaichico.jpg">
-<br>
-
-# [YEP Rafis](https://mega.nz/file/pJIU0BZQ#1ZxD9_8HIlfGq1xiQo846U9jijqEVTCTPQnLE-slFSM)
-(it's rafis but new instafade hitcircles and bigger cursor)    
-<img src="yeprafis.jpg">
 <br>
 
 download them :)
