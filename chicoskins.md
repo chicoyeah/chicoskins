@@ -2,8 +2,7 @@
 <br>
 
 # [YEP Rafis](https://mega.nz/file/YMInWLhQ#smK2WdzEmA6MRtaZRsQ8vvrraoRR-HOZDdgxf-0haSA)
-(it's rafis but new instafade hitcircles and bigger cursor)    
-<img src="yeprafis.jpg">
+<img src="yeprafis2.jpg">
 <br>
 
 # [Ikanyai chico edit](https://mega.nz/file/0U5ywJRR#VkJ-shrVN49qZ81dtx72Tv5dH87zm7SAmRfv1AX-tEE)   
