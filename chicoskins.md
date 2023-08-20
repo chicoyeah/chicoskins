@@ -5,7 +5,7 @@
 <img src="yeprafis2.jpg">
 <br>
 
-# [Ikanyai chico edit](https://mega.nz/file/5IYXES5A#pR_h2DasEOo_hgNufyECnFf1fLqzLtCQTd9eXLRx-jY)   
+# [Ikanyai chico edit](https://mega.nz/file/dEgyBAKZ#qXhTQ2mWx4-BuKnqCdutQ9cKx5euMuVFMC7uUocCoKM)   
 <img src="ikanyaichico.jpg">
 <br>
 
