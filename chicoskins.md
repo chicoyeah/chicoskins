@@ -10,7 +10,7 @@
 <br>
 
 # [ChicoSkin 1.9](https://mega.nz/file/VZAUCJwI#F_ddHxriDHH5cbsVf0lSNkg0H2XStMleVgz4oX_NGWM)   
-update 03/08/23 changed menu sounds
+03/08/23 changed menu sounds
 <img src="chicoskin19.jpg">
 <br>
 
