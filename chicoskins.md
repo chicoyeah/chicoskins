@@ -14,7 +14,8 @@ update 03/08/23 changed menu sounds
 <img src="chicoskin19.jpg">
 <br>
 
-# [ChicoSkin 1.8.5](https://mega.nz/file/pVwVibaQ#h1NOSI9Jx0LW-V3ZESnfTHFBSPWxaqbiKJaN6XrMVYk)   
+# [ChicoSkin 1.8.5](https://mega.nz/file/5IB3ECyJ#CAGYis8ymZDOaf0cGE5NNZtRWokklkGeCJ9SZh-1S_Q)   
+07/09/23 updated hitsounds
 <img src="chicoskin185.jpg">
 <br>
 
