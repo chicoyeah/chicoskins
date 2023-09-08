@@ -15,7 +15,7 @@
 <br>
 
 # [ChicoSkin 1.8.5](https://mega.nz/file/oUR1FJyD#cJduC80cVtQh_8sQ7--Gqf_2gVv4svSn_gHm9YFkqL4)   
-07/09/23 updated hitsounds
+08/09/23 changed some elements, old ones are in the folder
 <img src="chicoskin185new.jpg">
 <br>
 
