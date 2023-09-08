@@ -14,9 +14,9 @@
 <img src="chicoskin19.jpg">
 <br>
 
-# [ChicoSkin 1.8.5](https://mega.nz/file/5IB3ECyJ#CAGYis8ymZDOaf0cGE5NNZtRWokklkGeCJ9SZh-1S_Q)   
+# [ChicoSkin 1.8.5](https://mega.nz/file/oUR1FJyD#cJduC80cVtQh_8sQ7--Gqf_2gVv4svSn_gHm9YFkqL4)   
 07/09/23 updated hitsounds
-<img src="chicoskin185.jpg">
+<img src="chicoskin185new.jpg">
 <br>
 
 # [ChicoSkin 1.8](https://mega.nz/file/wIp1RDrZ#tzjiBCT4gwjE93t-xu7Y5f_mhjfBTMRzweX5PhT8TSc)   
