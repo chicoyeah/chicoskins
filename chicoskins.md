@@ -19,8 +19,8 @@ no glow and different cursor
 <img src="chicoskin19.jpg">
 <br>
 
-# [ChicoSkin 1.8.5](https://mega.nz/file/oUR1FJyD#cJduC80cVtQh_8sQ7--Gqf_2gVv4svSn_gHm9YFkqL4)   
-08/09/23 changed some elements, old ones are in the folder
+# [ChicoSkin 1.8.5](https://mega.nz/file/gAQzHZTR#BMfmCLmAfEcKMqy8Ud2v7C_kwjRYk7mRSByR9ZBMyY8)   
+02/01/24 added transparent slider misses
 <img src="chicoskin185new.jpg">
 <br>
 
