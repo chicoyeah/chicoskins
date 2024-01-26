@@ -1,11 +1,6 @@
 # ***Chico Skins***
 <br>
 
-# [Whitecat V3 Plain (Chico Edit)](https://mega.nz/file/gMYiXLiC#6ZTSOQECfYV81vEJNptc9QNJl2wYjhuqZn5zLDiuWhc)
-no glow and different cursor
-<img src="whiteedit.jpg">
-<br>
-
 # [YEP Rafis](https://mega.nz/folder/8AoBzRQJ#3U6l176J_PIXPdamlAsRQA)
 <img src="yeprafis2.jpg">
 <br>
