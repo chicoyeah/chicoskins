@@ -1,137 +1,137 @@
 # ***Chico Skins***
 <br>
 
-# [YEP Rafis](https://mega.nz/folder/8AoBzRQJ#3U6l176J_PIXPdamlAsRQA)
+# [YEP Rafis](https://mega.nz/folder/dVwQVTAS#Htsr3dLvfh4DuZ5F_A2kYg)
 <img src="yeprafis2.jpg">
 <br>
 
-# [Ikanyai chico edit](https://mega.nz/file/dEgyBAKZ#qXhTQ2mWx4-BuKnqCdutQ9cKx5euMuVFMC7uUocCoKM)   
+# [Ikanyai chico edit](https://mega.nz/file/YRZyxYIb#qFV8ktixci-nlOehnAGTQmsLEd93doy4Mz_hVtyGU3w)   
 <img src="ikanyaichico.jpg">
 <br>
 
-# [ChicoSkin 1.9](https://mega.nz/file/VZAUCJwI#F_ddHxriDHH5cbsVf0lSNkg0H2XStMleVgz4oX_NGWM)   
+# [ChicoSkin 1.9](https://mega.nz/file/sZxQiSYA#QaT3gQfHR_ujUgvfPfWmYcoun4u5IdJHZxl_e4kVmK8)   
 03/08/23 changed menu sounds
 <img src="chicoskin19.jpg">
 <br>
 
-# [ChicoSkin 1.8.5](https://mega.nz/file/gAQzHZTR#BMfmCLmAfEcKMqy8Ud2v7C_kwjRYk7mRSByR9ZBMyY8)   
+# [ChicoSkin 1.8.5](https://mega.nz/file/xNZHGKDY#H9XiLy57iHWTIEfyFvdqvyvu_TtvI_Ay9X9YCx21fbg)   
 02/01/24 added transparent slider misses
 <img src="chicoskin185new.jpg">
 <br>
 
-# [ChicoSkin 1.8](https://mega.nz/file/wIp1RDrZ#tzjiBCT4gwjE93t-xu7Y5f_mhjfBTMRzweX5PhT8TSc)   
+# [ChicoSkin 1.8](https://mega.nz/file/oIoAibxL#V-7pwydz2r6gaqgY3bjaN69ScTvlAE501xIuL5wis48)   
 <img src="chicoskin18.jpg">
 <br>
 
-# [ChicoSkin 1.7](https://mega.nz/file/9AIDUabQ#KdglOKHb_f1jrJzkvDPjuG-qF6C6AIIpX8lvKACcYpE)   
+# [ChicoSkin 1.7](https://mega.nz/file/AdxhXRqZ#SDVUrNTJDjy3FXtgq3gbWLaSf95sy0rf81UnwLmPrxo)   
 <img src="chicoskin17.jpg">
 <br>
 
-# [ChicoSkin 1.6](https://mega.nz/file/lVATwayb#kUG2L4fb6iIqgygsbo40gB6xLTNtwRRz5cOUJFntJhE)   
+# [ChicoSkin 1.6](https://mega.nz/file/FIRzgZgC#84cBGpaai35jxN4hm0NkmjJLch5QSM6hmMxtmkr5H6E)   
 <img src="chicoskin16.jpg">
 <br>
 
-# [ChicoSkin 1.5](https://mega.nz/file/AIQxUDII#j3LMAiXZ9g9RoqYgEGUma3YNP4yH8U5hAZs_7Z3yWb8)   
+# [ChicoSkin 1.5](https://mega.nz/file/5RRCxbyB#8gChyEAxnu7o8G2z1RlrPhkCCW2MqSyiq1-fAK2h6-s)   
 <img src="chicoskin15.jpg">
 <br>
 
-# [ChicoSkin 1.1](https://mega.nz/file/NVwiTRhR#6jMJHVq-CRHKYwi_0ppcIcZWjmNvnnBTpPB-QoLOLgc)   
+# [ChicoSkin 1.1](https://mega.nz/file/kVZQxCYT#3lJA2C3WW88hqV7adzap1td3TkZvBw_I-I5Gj4e_1co)   
 <img src="chicoskin11.jpg">
 <br>
 
-# [ChicoSkin](https://mega.nz/file/BF4jQJAA#z3Z8IlUhHFmXpnblku64vViYt_mR1q7R6ZmUZJwbn1s)   
+# [ChicoSkin](https://mega.nz/file/9cxgWBJI#fdaVCR3r5HbqhAhV7z8HfrAdGxOaoR5e5U7ZaBW3BwQ)   
 <img src="chicoskin.jpg">
 <br>
 
-# [Rafis Pink](https://mega.nz/file/MZYw1RRR#n27dXt361L_sAoGhTJ562GheYVEu9bT4l4u4yQQmTxo)   
+# [Rafis Pink](https://mega.nz/file/BQRR3aIZ#dDdbbzprpoRoTU9fwpFxjLoOvoPX9DXEMe4Cr0z3jIM)   
 <img src="rafispink.jpg">
 <br>
 
-# [ThePoon Pink](https://mega.nz/file/gYoxwKDD#8iHy0QLMtFLa4AvUNZjJJpzWkHI_d3Vz1uJL6e-is1U)   
+# [ThePoon Pink](https://mega.nz/file/FIoyyJKb#BwGPu8B2-4C2cWj1hGU1Ep_NFA7iqRR0nrdWMRK9Aw4)   
 <img src="thepoonpink.jpg">
 <br>
 
-# [osugame default](https://mega.nz/file/QdRhTYQK#KMZr1iUGrGebaCWQfev-eZARg1IR_jSbVjX9xrACu5w)   
+# [osugame default](https://mega.nz/file/4RRVEB5Q#rsgByhP2hIu7qYtwZAhS3Sl5A4rMlX6ruBdto6_Tws4)   
 <img src="osugamedefault.jpg">
 <br>
 
-# [Honeymap Remake](https://mega.nz/file/AQBwwRqK#LQrq08cFoh3VMG6pL387b2tgji1HseUz8hFYTYzqzJ4)   
+# [Honeymap Remake](https://mega.nz/file/5NIxyLQY#3VdgoFmMK1nmmY8JUbjjPPuZv2ylg3VHRz852vlbBdQ)   
 <img src="honeymapremake.jpg">
 <br>
 
-# [Super Sonico (Edit)](https://mega.nz/file/VBgCVBaZ#hIImSc4dMNrCmxq3jtaCkrdqN8gfhKGp5RukhsotpgM)   
+# [Super Sonico (Edit)](https://mega.nz/file/pIxEnTLZ#_PSW-eRbXMy7pmmBZRDy2dJVOygKUSuCPfZis0vJ75c)   
 <img src="supersonicoedit.jpg">
 <br>
 
-# [OSS! [by DMLF]](https://mega.nz/file/oBBwRTiZ#k7M6wIbqpPMIALLcsgbbDusR9R_aqEiVr617nttqg0o)   
+# [OSS! [by DMLF]](https://mega.nz/file/VIJAAKiS#VC0tbTaUuuZ40xg3tjN7jACjcWLhev-FiPYItohpNpU)   
 <img src="ossbydmlf.jpg">
 <br>
 
-# [INSGASG](https://mega.nz/file/4BR2TKZb#F0G14BSHXia3IE39DJCOC6izcpMRjRxNZWytlEEXjDU)   
+# [INSGASG](https://mega.nz/file/Vc4kSbib#9alWuDGBBvrasUCdlGC82cf4bWbIex-dUZxfVnwW90c)   
 <img src="insgasg.jpg">
 <br>
 
-# [DMLF+AlexS4v](https://mega.nz/file/lFhxCZrK#UZ7X_VjlEE6I6j6xqoHzEzk-0iFUhwabPRVxcR7RU5M)   
+# [DMLF+AlexS4v](https://mega.nz/file/4FYXiQSL#mhOhgjL4vBzfTIQEOGMAG7dzsubMs-LW688_Xlipkxs)   
 <img src="dmlfalexs4v.jpg">
 <br>
 
-# [DMLFskin13](https://mega.nz/file/IYgCwYRD#2y-RbdjCFyi1d8TeXguUL4TxHN1kEMP0O5f9oFEAbwg)   
+# [DMLFskin13](https://mega.nz/file/9JQBzTTT#lMpqFG2Jg3BTzn1ye9iQVn-Hs-JRU6PBkGUSile9DKc)   
 <img src="dmlf13.jpg">
 <br>
 
-# [DMLFskin12](https://mega.nz/file/EEZjHIwZ#hKj_KMOoDdJ8SqTVkwF26eb0662ePaptfCBJ1D9pRhk)   
+# [DMLFskin12](https://mega.nz/file/RIhGGaYA#R4bMDqm59OaHyEaPaWLYRHQL7od-jQ4V7B9OgtZkNsI)   
 <img src="dmlf12.jpg">
 <br>
 
-# [DMLFskin11](https://mega.nz/file/cBhy1Iib#vZjLpXFIzY3__aaE5LQ_zYXC5IVSc2IkNraKTsPSqGQ)   
+# [DMLFskin11](https://mega.nz/file/RBZSXQIC#kj6sWhpdeNcQ82Ug5_wq0y-9mpkuD472_DypCpu9Yn0)   
 <img src="dmlf11.jpg">
 <br>
 
-# [DMLFskin10](https://mega.nz/file/9MADQIgK#tKGyskJ5WeSBABtT1-K54NwqBCTea4ZUmkNnC4BE2Lw)   
+# [DMLFskin10](https://mega.nz/file/RYACRbRb#eLpnaV86FhFlsrC_X4k58tgq98twQX5gzaIE_MUVJg4)   
 <img src="dmlf10.jpg">
 <br>
 
-# [DMLFskin9](https://mega.nz/file/8BBXTZrD#CdKWkpTTPL6Dv-oCID3PpEpnVqiOyH00sgywfB2jzUc)   
+# [DMLFskin9](https://mega.nz/file/dAxRxJ5Z#zdiJ6mcHCguHnFq0chqLYEo8n3FWSmo3hlcd7kqVrCU)   
 <img src="dmlf9.jpg">
 <br>
 
-# [DMLFskin8](https://mega.nz/file/VBJjTDqK#SvYvQHYDynAKApCRQK0nU14dUyQao_tVDLMsBmLIZT4)   
+# [DMLFskin8](https://mega.nz/file/YExnkZIS#Dd-KFuzMJX9hdIKe_9nM_13-zgIUFUulprt9ye66trg)   
 <img src="dmlf8.jpg">
 <br>
 
-# [DMLFskin7](https://mega.nz/file/dEpwUYjR#5IyXOSL2HzOrdVVyOb5Ho9Dmf7HWjglISrvPpQd-7r4)   
+# [DMLFskin7](https://mega.nz/file/4JQwibYK#XsF_3XP35UmEpgvABRuVAdlpvIcv141u5C_aWz0CNpM)   
 <img src="dmlf7.jpg">
 <br>
 
-# [DMLFskin6](https://mega.nz/file/QYBnCaJS#GreC_EbWq52YIDZI_PNuJgXf5CWvs-Ne28sPfJA3w0I)   
+# [DMLFskin6](https://mega.nz/file/tBQywbJb#Ab2SDrt8PuO7MKLtBDLx2oQe8gvriPm-YI_2zDjYUUM)   
 <img src="dmlf6.jpg">
 <br>
 
-# [DMLFskin5](https://mega.nz/file/kF5y2awK#9PGsc0U8488g1DveXGReUZxCcIvY8SUZTrUtIPX6RQU)   
+# [DMLFskin5](https://mega.nz/file/5ZwVSbpb#VfWPWTMtkJ8qY4Q3qe2NaxLRu9goBUV9vdikCkAqAaY)   
 <img src="dmlf5.jpg">
 <br>
 
-# [DMLFskin4](https://mega.nz/file/RMhzWQrA#f87GIKhdJk4in-Qlwn19Ogj0WoqbNVVOSHeGld4Pg-E)   
+# [DMLFskin4](https://mega.nz/file/wN5xxZCQ#mSNBIITTkOolCuGiCkPvOq8ZZHMgolsAvDkZPUnX-ic)   
 <img src="dmlf4.jpg">
 <br>
 
-# [DMLFskin3](https://mega.nz/file/IE5WWKwT#-2HRlauStC0-JdRn5pdTmyeaXSztXJBTa_ALNDDBgTM)   
+# [DMLFskin3](https://mega.nz/file/1QYlSaLK#NEL689ttuLIeCrxfpZ5Xcaoqs-AGqyiMf6-H50Ziux4)   
 <img src="dmlf3.jpg">
 <br>
 
-# [DMLFskin2](https://mega.nz/file/oBhhlQCT#pFOqG2C98plc7NvoMTOmg8KhyvKTzHLbB65R57IfmC0)   
+# [DMLFskin2](https://mega.nz/file/8Mp3yJKb#BjSVIqgXeGyoAXWRitpxO1S0EWRq1cgFPHaUgBYq4oM)   
 <img src="dmlf2.jpg">
 <br>
 
-# [DMLFskin](https://mega.nz/file/5EgTXCCD#EXQdbFE-bcOsbsmYpN1rrLR-98QHGYBPr0FtWPMOaF8)   
+# [DMLFskin](https://mega.nz/file/0IAiUBRJ#z_E8fHcGGV2gougcMHEdB1_I89y8-3FYDs0Q1PpLzKI)   
 <img src="dmlf.jpg">
 <br>
 
-# [Demonleoniful SKIN 2](https://mega.nz/file/VcpRCC4J#-cAzlUWOVH77Kfw3pCZ-rfdfQaRHZxMUbcw2VOu6iL0)   
+# [Demonleoniful SKIN 2](https://mega.nz/file/tc5T3CJB#bwNZPsQxkfcnIpTbkSKFO20M7a6LZ9x5mITm8yOsM6A)   
 <img src="demonleoniful1.jpg">
 <br>
 
-# [Demonleoniful SKIN](https://mega.nz/file/kUpUCRKZ#WpORn5hMu83ewtUjkeakOAJQPJX5QteQ4OuLXykJgZU) 
+# [Demonleoniful SKIN](https://mega.nz/file/YAA1xA4K#zNvK1ArFAs1W57KP9oGn_38tRTCn5RF_4FXI9wST4Lc) 
 <img src="demonleoniful2.jpg">
 <br>
 
