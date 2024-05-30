@@ -15,7 +15,7 @@
 <br>
 
 # [ChicoSkin 1.8.5](https://mega.nz/file/odJlzLhZ#O3Q_0EPJ3mRi9dtYNF4D5d2HeUXdzMBsOxXAxaENjzo)   
-02/01/24 added transparent slider misses
+30/05/24 changed applause
 <img src="chicoskin185new.jpg">
 <br>
 
