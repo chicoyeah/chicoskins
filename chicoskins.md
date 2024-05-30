@@ -14,7 +14,7 @@
 <img src="chicoskin19.jpg">
 <br>
 
-# [ChicoSkin 1.8.5](https://mega.nz/file/xNZHGKDY#H9XiLy57iHWTIEfyFvdqvyvu_TtvI_Ay9X9YCx21fbg)   
+# [ChicoSkin 1.8.5](https://mega.nz/file/odJlzLhZ#O3Q_0EPJ3mRi9dtYNF4D5d2HeUXdzMBsOxXAxaENjzo)   
 02/01/24 added transparent slider misses
 <img src="chicoskin185new.jpg">
 <br>
