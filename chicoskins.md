@@ -14,8 +14,8 @@
 <img src="chicoskin19.jpg">
 <br>
 
-# [ChicoSkin 1.8.5](https://mega.nz/file/odJlzLhZ#O3Q_0EPJ3mRi9dtYNF4D5d2HeUXdzMBsOxXAxaENjzo)   
-30/05/24 changed applause
+# [ChicoSkin 1.8.5](https://mega.nz/file/lRA3VJzA#mrj8o9WZ2rOuvg5vjF9-2S-d2o4JrczLoPW25oEsjhE)   
+17/10/24 changed a bunch of shi
 <img src="chicoskin185new.jpg">
 <br>
 
