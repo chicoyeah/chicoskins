@@ -1,6 +1,10 @@
 # ***Chico Skins***
 <br>
 
+# [Azure (chico edit)](https://mega.nz/file/hMJhwK5K#ccqmuDqM13RCsNUCIZNUp3oQs8LgmWvlYX-WWRRLPb4)
+<img src="azure.jpg">
+<br>
+
 # [YEP Rafis](https://mega.nz/folder/dVwQVTAS#Htsr3dLvfh4DuZ5F_A2kYg)
 <img src="yeprafis2.jpg">
 <br>
