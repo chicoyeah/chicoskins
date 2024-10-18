@@ -13,11 +13,6 @@
 <img src="ikanyaichico.jpg">
 <br>
 
-# [ChicoSkin 1.9](https://mega.nz/file/sZxQiSYA#QaT3gQfHR_ujUgvfPfWmYcoun4u5IdJHZxl_e4kVmK8)   
-03/08/23 changed menu sounds
-<img src="chicoskin19.jpg">
-<br>
-
 # [ChicoSkin 1.8.5](https://mega.nz/file/lRA3VJzA#mrj8o9WZ2rOuvg5vjF9-2S-d2o4JrczLoPW25oEsjhE)   
 17/10/24 changed a bunch of shi
 <img src="chicoskin185new.jpg">
