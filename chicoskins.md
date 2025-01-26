@@ -1,6 +1,10 @@
 # ***Chico Skins***
 <br>
 
+# [vaxei not blue](https://mega.nz/file/QUg1SLjK#YfpKR4pOB4GiKyCHwl-1GeYT5pnhweK1Za2MB6Ilai4)
+<img src="vaxnotblu.jpg">
+<br>
+
 # [Azure (chico edit)](https://mega.nz/file/hMJhwK5K#ccqmuDqM13RCsNUCIZNUp3oQs8LgmWvlYX-WWRRLPb4)
 <img src="azure.jpg">
 <br>
