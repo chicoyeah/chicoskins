@@ -17,9 +17,9 @@
 <img src="screenshots/ikanyaichico.jpg">
 <br>
 
-# [ChicoSkin 1.8.5](https://mega.nz/file/lRA3VJzA#mrj8o9WZ2rOuvg5vjF9-2S-d2o4JrczLoPW25oEsjhE)   
-17/10/24 changed a bunch of shi
-<img src="screenshots/chicoskin185new.jpg">
+# [ChicoSkin 1.8.5](https://mega.nz/file/JdpGWYyQ#a8evJAKF5vpi2FTGhqFQa05PPlNgCkqrLotqzrFF8Cg)   
+14/02/25 changed hp bar for lazer, changed mania hold notes, changed followpoints
+<img src="screenshots/chicoskin185based.jpg">
 <br>
 
 # [ChicoSkin 1.8](https://mega.nz/file/oIoAibxL#V-7pwydz2r6gaqgY3bjaN69ScTvlAE501xIuL5wis48)   
