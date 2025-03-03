@@ -1,7 +1,7 @@
 # ***Chico Skins***
 <br>
 
-# [vaxei not blue](https://github.com/chicoyeah/chicoskins/raw/refs/heads/main/skins/vaxei%20not%20blue.osk)
+# [vaxei not blue](https://mega.nz/file/QUg1SLjK#YfpKR4pOB4GiKyCHwl-1GeYT5pnhweK1Za2MB6Ilai4)
 <img src="screenshots/vaxnotblu.jpg">
 <br>
 
