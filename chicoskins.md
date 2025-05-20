@@ -18,7 +18,7 @@
 <br>
 
 # [ChicoSkin 1.8.5](https://mega.nz/file/JdpGWYyQ#a8evJAKF5vpi2FTGhqFQa05PPlNgCkqrLotqzrFF8Cg)   
-14/02/25 changed hp bar for lazer, changed mania hold notes, changed followpoints
+20/05/2025 added support for mania 7k
 <img src="screenshots/chicoskin185based.jpg">
 <br>
 
