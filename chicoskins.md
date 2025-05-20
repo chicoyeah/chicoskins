@@ -17,7 +17,7 @@
 <img src="screenshots/ikanyaichico.jpg">
 <br>
 
-# [ChicoSkin 1.8.5](https://mega.nz/file/JdpGWYyQ#a8evJAKF5vpi2FTGhqFQa05PPlNgCkqrLotqzrFF8Cg)   
+# [ChicoSkin 1.8.5](https://mega.nz/file/FY5HGKQb#S_jSHgBLKRq2Ydnm02aUf4aUni-5yFF5NnekH2nu_BM)   
 20/05/2025 added support for mania 7k
 <img src="screenshots/chicoskin185based.jpg">
 <br>
