@@ -18,8 +18,8 @@
 <br>
 
 # [ChicoSkin 1.8.5](https://mega.nz/file/FY5HGKQb#S_jSHgBLKRq2Ydnm02aUf4aUni-5yFF5NnekH2nu_BM)   
-20/05/2025 added support for mania 7k
-<img src="screenshots/chicoskin185based.jpg">
+24/05/2025 added new cursor
+<img src="screenshots/chicoskin185sgunga.jpg">
 <br>
 
 # [ChicoSkin 1.8](https://mega.nz/file/oIoAibxL#V-7pwydz2r6gaqgY3bjaN69ScTvlAE501xIuL5wis48)   
