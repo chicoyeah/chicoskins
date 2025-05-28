@@ -17,8 +17,8 @@
 <img src="screenshots/ikanyaichico.jpg">
 <br>
 
-# [ChicoSkin 1.8.5](https://mega.nz/file/9E4xiSTI#aLU95ka-_ZwTKLsRYQBYBX7jh3eKbQZIqjkOxGiZFBc)   
-24/05/2025 added new cursor
+# [ChicoSkin 1.8.5](https://mega.nz/file/EABGlZiZ#o5eTu1_kfxIc9DZIMmbzPJ59fwF7vHyQvJjkTYCYBU8)   
+28/05/2025 added lakitu
 <img src="screenshots/chicoskin185sgunga.jpg">
 <br>
 
