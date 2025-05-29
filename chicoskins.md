@@ -17,8 +17,8 @@
 <img src="screenshots/ikanyaichico.jpg">
 <br>
 
-# [ChicoSkin 1.8.5](https://mega.nz/file/EABGlZiZ#o5eTu1_kfxIc9DZIMmbzPJ59fwF7vHyQvJjkTYCYBU8)   
-28/05/2025 added lakitu
+# [ChicoSkin 1.8.5](https://mega.nz/file/YNQ02T5B#_6QizVz2xhk-LVw3PC_0WUi__qHFQ0NNt0mwPmlpX3I)   
+29/05/2025 changed section fail/pass
 <img src="screenshots/chicoskin185sgunga.jpg">
 <br>
 
