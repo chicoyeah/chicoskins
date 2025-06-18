@@ -17,7 +17,7 @@
 <img src="screenshots/ikanyaichico.jpg">
 <br>
 
-# [ChicoSkin 1.8.5](https://mega.nz/file/oRBlAaiQ#RAHWnUIdTJc6ve7lycCOrQ4XlT8Xw-nkWAWutjvae2g)   
+# [ChicoSkin 1.8.5](https://mega.nz/file/cNZ11agS#0Tr84ZrU8vYWhE29Dw11iQxof24G4lxdVGlUbyqxXTI)   
 03/06/2025 updated mania 6k/7k
 <img src="screenshots/chicoskin185sgunga.jpg">
 <br>
