@@ -17,8 +17,8 @@
 <img src="screenshots/ikanyaichico.jpg">
 <br>
 
-# [ChicoSkin 1.8.5](https://mega.nz/file/cNZ11agS#0Tr84ZrU8vYWhE29Dw11iQxof24G4lxdVGlUbyqxXTI)   
-03/06/2025 updated mania 6k/7k
+# [ChicoSkin 1.8.5](https://mega.nz/file/RZggHY6A#SICK9S_edif7h5Sk6YUTPL_coOdrMPmTyd1NIjP160A)   
+20/10/2025 fixed leaderboards, added progress bar
 <img src="screenshots/chicoskin185sgunga.jpg">
 <br>
 
