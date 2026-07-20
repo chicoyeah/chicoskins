@@ -1,6 +1,10 @@
 # ***Chico Skins***
 <br>
 
+# [karcher not instafade](https://mega.nz/file/5Zh01T6R#Dxx_XYxlX7QVrVYKFoQ_eHbOJWktbiJpBCQoKsvkysw)
+<img src="screenshots/karcher.jpg">
+<br>
+
 # [vaxei not blue](https://mega.nz/file/QUg1SLjK#YfpKR4pOB4GiKyCHwl-1GeYT5pnhweK1Za2MB6Ilai4)
 <img src="screenshots/vaxnotblu.jpg">
 <br>
