@@ -21,8 +21,8 @@
 <img src="screenshots/ikanyaichico.jpg">
 <br>
 
-# [ChicoSkin 1.8.5](https://mega.nz/file/RZggHY6A#SICK9S_edif7h5Sk6YUTPL_coOdrMPmTyd1NIjP160A)   
-20/10/2025 fixed leaderboards, added progress bar
+# [ChicoSkin 1.8.5](https://mega.nz/file/8Iox3KIR#0ShI7thmbvcgM5Ds5J3KFBN3IXVt0xJS8_zJJp6sHOY)   
+12/09/2026 many subtle changes can't be bothered to type them
 <img src="screenshots/chicoskin185sgunga.jpg">
 <br>
 
