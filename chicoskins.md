@@ -21,7 +21,7 @@
 <img src="screenshots/ikanyaichico.jpg">
 <br>
 
-# [ChicoSkin 1.8.5](https://mega.nz/file/8Iox3KIR#0ShI7thmbvcgM5Ds5J3KFBN3IXVt0xJS8_zJJp6sHOY)   
+# [ChicoSkin 1.8.5](https://mega.nz/file/BQZWSRYI#-GJKdCPjZ6IERYCzL5wuoaCQep-ecdUHANs_66kGkz0)   
 12/09/2026 many subtle changes can't be bothered to type them
 <img src="screenshots/chicoskin185sgunga.jpg">
 <br>
