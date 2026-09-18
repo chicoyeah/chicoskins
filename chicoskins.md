@@ -21,8 +21,8 @@
 <img src="screenshots/ikanyaichico.jpg">
 <br>
 
-# [ChicoSkin 1.8.5](https://mega.nz/file/5U5U0QwL#1ldYM9Jw9Fgmbvnnb2cinHGbtZ9h7sTHF9QYvyzTlO8)   
-16/09/2026 updated taiko
+# [ChicoSkin 1.8.5](https://mega.nz/file/NF4TwSSL#M0yZBgCvvD5E0gtxOg-JMZ4OzEMODtIWydM2jHb8y0M)   
+18/09/2026 updated taiko hitsounds
 <img src="screenshots/chicoskin185sgunga.jpg">
 <br>
 
