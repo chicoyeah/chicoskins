@@ -2,7 +2,7 @@
 <br>
 
 # [📌 ChicoSkin 1.8.5](https://mega.nz/file/dBZknAzK#IUUGcDet-0K76qmIsE9J1tGKsH2PuBu7KtH04LNUTiY)   
-18/09/2026 updated taiko hitsounds
+23/11/2026 updated ui
 <img src="screenshots/chicoskin185newui.jpg">
 <br>
 
