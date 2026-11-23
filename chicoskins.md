@@ -1,9 +1,9 @@
 # ***Chico Skins***
 <br>
 
-# [📌 ChicoSkin 1.8.5](https://mega.nz/file/NF4TwSSL#M0yZBgCvvD5E0gtxOg-JMZ4OzEMODtIWydM2jHb8y0M)   
+# [📌 ChicoSkin 1.8.5](https://mega.nz/file/dBZknAzK#IUUGcDet-0K76qmIsE9J1tGKsH2PuBu7KtH04LNUTiY)   
 18/09/2026 updated taiko hitsounds
-<img src="screenshots/chicoskin185sgunga.jpg">
+<img src="screenshots/chicoskin185newui.jpg">
 <br>
 
 # [karcher not instafade](https://mega.nz/file/5Zh01T6R#Dxx_XYxlX7QVrVYKFoQ_eHbOJWktbiJpBCQoKsvkysw)
